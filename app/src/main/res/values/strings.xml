@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS Department</string>
+    <string name="cs_logo"> Λογότυπο Τμήματος Μηχανικών Πληροφορικής Τ.Ε. </string>
+    <string-array name="top_level_options">
+        <item>Σπουδές</item>
+        <item>Φοιτητικά θέματα</item>
+        <item>Εκπαιδευτικοί</item>
+    </string-array>
+</resources>
